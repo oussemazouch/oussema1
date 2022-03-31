@@ -1,0 +1,143 @@
+body{
+    background-color: #ebfcfc;
+
+
+}
+
+.our_review_div{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 130px;
+    font-size: 50px;
+    font-weight:550;
+    font-family:  Candara;
+    padding-bottom: 10px;
+
+
+}
+.rev_span{
+    text-decoration-line: underline;
+    text-decoration-color:#72b1c2 ;
+
+
+}
+.job_div{
+    text-align: center;
+    margin-top: 10px;
+    color: #72b1c2 ;
+
+}
+
+
+.job_description_div{
+    padding-top: 10px ;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: gray;
+}
+
+
+
+
+.img_wrapper{
+    margin-top: 20px;
+    margin-left:235px;
+    align-content: center;
+    height:130px;
+    width: 130px;
+    border-radius: 50%;
+
+
+}
+
+.name_div{
+    font-family: Candara;
+    margin-top: 20px;
+    text-align: center;
+    font-weight:bold;
+    font-size: 20px;
+}
+.wrapper{
+    width: 600px;
+    height: 400px;
+    position:absolute ;
+    margin-left: 440px;
+    margin-top: 270px;
+    background-color: white;
+    border-radius:20px;
+
+}
+
+
+
+
+
+
+
+
+
+.surprise_button{
+    margin-left: 264px;
+    margin-top: 10px;
+    background-color: #ebfcfc;
+    height: 25px;
+    border-width: 2px;
+    border-color: #72b1c2;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: small;
+    padding: 0px 0 1px;
+}
+.previousnext_div{
+
+text-align: center;
+}
+
+.previous_review:hover{
+    text-decoration-line: none;
+    color: cornflowerblue;
+}
+.next_review:hover{
+    text-decoration-line: none;
+    color: cornflowerblue;
+}
+
+.previous_review{
+    margin-right: 12px;
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: 850;
+    color: #72b1c2;
+    text-decoration-line: none;
+}
+.next_review{
+    margin-left: 12px;
+    text-decoration-line: none;
+    color:  #72b1c2;
+    font-size: 20px;
+    font-weight: 850;
+}
+
+.buttons{
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 440px;
+    width: 600px;
+    height: 100px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.ayoub_review{
+    visibility: hidden;
+
+}
+.melek_review{
+    visibility: hidden;
+}
+.edam_review{
+    visibility: hidden;
+}
